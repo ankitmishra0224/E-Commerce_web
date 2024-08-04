@@ -1,1 +1,3 @@
-# E-Commerce_web
+# E-Commerce_Website
+
+This is a e-commerce Web application that offers a seamless and user-friendly experience for customers, allowing them to register and login into their accounts, easily browse for products, add items to their cart, and also allow them to add their delivery address, with the help of HTML, CSS and JavaScript...
